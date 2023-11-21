@@ -1,0 +1,60 @@
+/*ABOUT*/
+
+#aboutComp {
+	margin-top: 150px;
+}
+
+#aboutComp .row {
+	margin-top: 50px;
+	width: auto;
+ 	height: auto;
+}
+
+.colWithTex {
+
+}
+
+.imgWrapper {
+	height: 370px;
+/*	width: 635px;*/
+	width: 100%;
+}
+
+.imgWrapper img {
+	object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.imgWrapper3 {
+	height: 400px;
+	/*width: 1280px;*/
+	width: 100%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.imgWrapper3 img {
+	object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.qwerty {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+@media (max-width: 850px) {
+	#aboutComp {
+	    margin-top: 110px;
+	}
+
+	#aboutComp .row {
+    	margin-top: 10px;
+	}
+
+	#aboutComp .row p {
+    	margin-top: 10px;
+	}
+}

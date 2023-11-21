@@ -1,0 +1,13 @@
+{
+  "name": "Belvedere | Деревянная мебель для дома",
+  "short_name": "Belvedere",
+  "icons": [{
+        "src": "img/icon/favicon16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }, {
+        "src": "images/icon/favicon32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }]
+}
